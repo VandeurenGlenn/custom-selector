@@ -1,0 +1,26 @@
+{
+  "name": "custom-selector",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VandeurenGlenn/custom-selector.git"
+  },
+  "keywords": [
+    "select",
+    "selector"
+  ],
+  "author": "Glenn Vandeuren <vandeurenglenn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VandeurenGlenn/custom-selector/issues"
+  },
+  "homepage": "https://github.com/VandeurenGlenn/custom-selector#readme",
+  "dependencies": {
+    "custom-select-mixins": "^0.11.3"
+  }
+}
