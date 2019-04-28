@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/VandeurenGlenn/custom-selector#readme",
   "dependencies": {
-    "custom-select-mixins": "^0.11.3"
+    "custom-select-mixins": "^0.12.2"
   }
 }
